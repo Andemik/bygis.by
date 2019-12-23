@@ -77,3 +77,11 @@
 [http://www.belgidromet.by/ru/](http://www.belgidromet.by/ru/)
  * Витебскоблгаз
 [https://www.oblgas.by/](https://www.oblgas.by/)
+ * УП "БЕЛНИИПГРАДОСТРОИТЕЛЬСТВА"
+[https://irup.by/](https://irup.by/) [Градостроительный кадастр](http://progrado.nextgis.com/resource/31/display?panel=layers)
+ * Национальный статистический комитет
+[https://www.belstat.gov.by](https://www.belstat.gov.by)
+ * Белгослес
+[http://belgosles.by/](http://belgosles.by/)
+[ГИС ЛЕС](http://belgosles.by/index.php?option=com_content&view=article&id=321:2018-05-25-08-44-04&catid=34:2013-04-22-10-15-39/)
+
